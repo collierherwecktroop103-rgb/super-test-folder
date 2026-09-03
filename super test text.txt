@@ -1,3 +1,9 @@
 #test test test?
 #look at me im an update
 #another one? how spoiled I am.
+#"C:\super test folder\super test text.txt"
+#Steps taken are
+#git add -A
+#git commit -A
+#git push
+#NOT MAIN THIS IS VSC IT IS MAIN!!!
